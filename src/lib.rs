@@ -1,7 +1,7 @@
 use std::fs::File;
 use std::io::Read;
 use std::error::Error;  
-pub fn gender(com: String) -> Result<(), Box<dyn Error>> {
+pub fn gender_identification(com: String) -> Result<(), Box<dyn Error>> {
     let mut text_boy = File::open("boysname.txt").unwrap();
     let mut text_girl = File::open("girlsname.txt").unwrap(); 
     let mut seperate_boy = String::new();
