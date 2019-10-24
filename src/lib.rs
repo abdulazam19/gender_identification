@@ -1,6 +1,6 @@
 use std::fs::File;
 use std::io::Read;
-//use std::error::Error;  
+ 
 pub fn gender_identification(com: String){
     let mut text_boy = File::open("boysname.txt").expect("boys file not open");
     let mut text_girl = File::open("girlsname.txt").expect("girls file not open"); 
@@ -31,5 +31,5 @@ pub fn gender_identification(com: String){
     else{
             println!(".......sorry this name is not our Database.......");
         }
-    //Ok(())
+    
 }
