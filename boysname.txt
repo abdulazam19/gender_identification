@@ -74,6 +74,7 @@ hashim
 hassan
 hussein
 humayun
+inzamam
 ibrahim
 iskandar
 ismail
@@ -103,6 +104,7 @@ latif
 liaquat
 lehri
 mahmoud
+malik
 mani
 moammar
 mikal
@@ -180,6 +182,7 @@ tawfiq
 timur
 tirdad
 uday
+ukasha
 umar
 usama
 uthman
