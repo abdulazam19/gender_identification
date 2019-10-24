@@ -1,4 +1,5 @@
 aisha
+aysha
 adeeba
 andaleeb
 anousheh
@@ -19,10 +20,16 @@ bahar
 bushra
 deeba
 deedar
+dua
 duaa
 dunya
 fahmida
 farida
+farah
+fara
+fariha
+fariya
+filza
 fareeda
 farnaz
 farhia
@@ -39,6 +46,7 @@ humaima
 hina
 iffat
 iman
+iqra
 ismat
 komal
 kurshid
@@ -50,6 +58,8 @@ mahira
 mahnoor
 malala
 maria
+mariya
+marvi
 marina
 maryam
 mawra
@@ -65,6 +75,8 @@ musarrat
 nabila
 nadeema
 namra
+nida
+nimra
 nasreen
 nazanin
 neha
@@ -102,6 +114,7 @@ yasmin
 yasra
 yusra
 zarah
+zoha
 zarine
 zarlasht
 zarnish
