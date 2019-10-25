@@ -3,8 +3,9 @@ name = "gender_identification"
 version = "0.2.2"
 authors = ["abdul azam <abdulazam1996@gmail.com>"]
 edition = "2018"
-description = "Note: this crate identify the only Pakistan's girls and boy name.""first you downalod the boysname.txt and girlsname.txt file from the Github or make file of same name and put data accordinglty"
-"write gender_identification::gender(String::from("yourname"));"
+description = "Note: this crate identify the only Pakistan's girls and boy name.
+first you downalod the boysname.txt and girlsname.txt file from the Github or make file of same name and put data accordinglty
+write gender_identification::gender(String::from(yourname with double commas));"
 license = "MIT"
 repository = "https://github.com/abdulazam19/gender_identification"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
